@@ -1,9 +1,9 @@
-#                                  <h1 align="center"> Recalbox-9.0-Pulstar-Bios 2023</h1>
+#                                  <h1 align="center"> Recalbox-9.1-Pulstar-Bios 2023</h1>
 <p align="center">
-Las Bios Correctas y necesarias para Recalbox-Pulstar 9.0, sin archivos innecesarios.
+Las Bios Correctas y necesarias para Recalbox-Pulstar 9.1, sin archivos innecesarios.
 </p>
 <p align="center">
-Bios Recalbox-Pulstar 9.0 without unnecessary files.
+Bios Recalbox-Pulstar 9.1 without unnecessary files.
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/Luciano2018/RetroPieBios/master/logov3.png" alt="Raspberry Pi Buenos Aires" width="400" height="500">
@@ -27,7 +27,7 @@ Password: `recalboxroot`
 Type:
 
 ```
-curl -sSL https://raw.githubusercontent.com/Luciano2018/Recalbox9.0-Pulstar/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/Luciano2018/Recalbox9.1-Pulstar/main/install.sh | bash
 ```
 
 # Tutorial: Retroconsolas
