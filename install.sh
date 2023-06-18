@@ -118,6 +118,8 @@ rm ../bios/bk/MONIT10.ROM
 rm ../bios/sgb/SGB1.sfc
 rm ../bios/sgb/SGB2.sfc
 rm ../bios/cdi/cdimono1.zip
+rm ../bios/cdi/cdibios.zip
+rm ../bios/cdi/cdimono2.zip
 rm ../bios/coleco/boot.rom
 rm ../bios/dc/airlbios.zip
 rm ../bios/dc/awbios.zip
@@ -621,6 +623,10 @@ echo
 echo "PHILIPS CD-I"
 echo
 wget -c "https://raw.githubusercontent.com/Luciano2018/Recalbox9.0-Pulstar/main/bios/cdi/cdimono1.zip" -P ../bios/cdi/
+echo
+wget -c "https://raw.githubusercontent.com/Luciano2018/Recalbox9.0-Pulstar/main/bios/cdi/cdibios.zip" -P ../bios/cdi/
+echo
+wget -c "https://raw.githubusercontent.com/Luciano2018/Recalbox9.0-Pulstar/main/bios/cdi/cdimono2.zip" -P ../bios/cdi/
 echo
 echo "PLAYSTATION"
 echo
