@@ -19,6 +19,7 @@ rm ../bios/3do_arcade_saot.bin
 rm ../bios/5200.rom
 rm ../bios/64DD_IPL.bin
 rm ../bios/"7800 BIOS (U).rom"
+rm ../bios/"7800 BIOS (E).rom"
 rm ../bios/apple2gs1.rom
 rm ../bios/apple2gs3.rom
 rm ../bios/ATARIBAS.ROM
@@ -236,6 +237,7 @@ echo "Sistema listo para su correcta instalacion"
 echo "System ready for right installation"
 
 echo "Obteniendo Bios---Getting Bios, be patient"
+echo
 echo "AMIGA 1200 (AGA)"
 echo
 wget -c "https://raw.githubusercontent.com/Luciano2018/Recalbox9.0-Pulstar/main/bios/kick39106.A1200" -P ../bios/
@@ -288,6 +290,8 @@ echo
 echo "ATARI 7800"
 echo
 wget -c "https://raw.githubusercontent.com/Luciano2018/Recalbox9.0-Pulstar/main/bios/7800 BIOS (U).rom" -P ../bios/
+echo
+wget -c "https://raw.githubusercontent.com/Luciano2018/Recalbox9.0-Pulstar/main/bios/7800 BIOS (E).rom" -P ../bios/
 echo
 echo "ATARI 8BITS"
 echo
@@ -452,6 +456,7 @@ echo
 wget -c "https://raw.githubusercontent.com/Luciano2018/Recalbox9.0-Pulstar/main/bios/gexpress.pce" -P ../bios/
 echo
 echo "NEC PC-ENGINE CD"
+echo
 wget -c "https://raw.githubusercontent.com/Luciano2018/Recalbox9.0-Pulstar/main/bios/syscard3.pce" -P ../bios/
 echo
 wget -c "https://raw.githubusercontent.com/Luciano2018/Recalbox9.0-Pulstar/main/bios/syscard1.pce" -P ../bios/
@@ -684,6 +689,7 @@ echo
 echo "SAMMY ATOMISWAVE"
 echo
 wget -c "https://raw.githubusercontent.com/Luciano2018/Recalbox9.0-Pulstar/main/bios/dc/awbios.zip" -P ../bios/dc/
+echo
 echo "SATELLAVIEW"
 echo
 wget -c "https://raw.githubusercontent.com/Luciano2018/Recalbox9.0-Pulstar/main/bios/BS-X.bin" -P ../bios
