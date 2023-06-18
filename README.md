@@ -13,10 +13,10 @@ Bios Recalbox-Pulstar 9.1 without unnecessary files.
 
 # Instalacion fácil:
 
-Salimos con `F4` de EmulationStation y vamos a la terminal de Recalbox con `ALT+F2` e iniciamos sesion:
+Salimos con `ALT+F4` de EmulationStation y vamos a la terminal de Recalbox con `ALT+F2` e iniciamos sesion:
 
 # Easy install:
-Exit from EmulationStation with `F4` then press `ALT+F2` to go top Recalbox Terminal:
+Exit from EmulationStation with `ALT+F4` then press `ALT+F2` to go top Recalbox Terminal:
 
 # Login:
 
